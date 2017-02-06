@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main2"
+
+    android:layout_width="0dip"
+    android:layout_marginLeft="10px"
+    android:layout_height="50px"
+    android:theme="@style/Theme.Transparent"
+    android:background="#c0000000"
+
+
+    tools:context="com.example.user.myapplication.Main2Activity">
+
+</RelativeLayout>
